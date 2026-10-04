@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://premiumcarestetica.com.br/</loc>
+        <lastmod>2026-10-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1601362840469-51e4d8d58785?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image:loc>
+            <image:title>Polimento técnico de alta precisão na Premium Car Estética Automotiva Piedade</image:title>
+            <image:caption>Serviço especializado de polimento técnico e recuperação de pintura em Jaboatão dos Guararapes</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&amp;fit=crop&amp;w=1200&amp;q=80</image:loc>
+            <image:title>Espelhamento e vitrificação automotiva com acabamento espelhado</image:title>
+            <image:caption>Acabamento espelhado de alta performance para veículos premium</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1607860108855-64acf2078ed9?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image:loc>
+            <image:title>Correção de pintura automotiva e polimento técnico profissional</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image:loc>
+            <image:title>Proteção de pintura repelente à água com Coating Cerâmico 9H</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image:loc>
+            <image:title>Higienização interna profunda e hidratação de bancos de couro automotivo</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1552930294-6b595f4c2974?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image:loc>
+            <image:title>Lavagem detalhada de alta precisão com snow foam em Piedade</image:title>
+        </image:image>
+    </url>
+</urlset>
